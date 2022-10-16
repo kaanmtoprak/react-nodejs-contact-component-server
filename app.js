@@ -51,5 +51,5 @@ app.post("/",(req,res)=>{
 
 
 app.listen(4050,()=>{
-    console.log("server is up on 4050!!")
+    console.log("server")
 })
